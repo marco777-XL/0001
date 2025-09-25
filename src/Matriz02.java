@@ -26,5 +26,5 @@ public class Matriz02 {
         for (int i = 0; i < 4; i++) {
             System.out.println("Posição [" + i + "][" + i + "] = " + matriz[i][i]);
         }
-    }
+    }///
 }

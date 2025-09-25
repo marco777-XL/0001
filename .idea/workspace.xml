@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ce8bb9f-6d0b-4898-a35c-a1758c1fcc86" name="Changes" comment="&quot;Cria uma matriz identidade 5x5 e exibe o resultado no console&quot;" />
+    <list default="true" id="3ce8bb9f-6d0b-4898-a35c-a1758c1fcc86" name="Changes" comment="&quot;Cria programa que lê 10 números inteiros e exibe o maior e o menor valor&quot;">
+      <change beforePath="$PROJECT_DIR$/src/Matriz01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Matriz01.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,12 +81,38 @@
       <option name="project" value="LOCAL" />
       <updated>1758842518411</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="&quot;Cria uma matriz identidade 5x5 e exibe o resultado no console&quot;">
+      <option name="closed" value="true" />
+      <created>1758842680374</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1758842680374</updated>
+    </task>
+    <task id="LOCAL-00006" summary="&quot;Cria programa que gera 15 números aleatórios e exibe pares e ímpares separadamente&quot;">
+      <option name="closed" value="true" />
+      <created>1758842779699</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1758842779699</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&quot;Cria programa que lê 10 números inteiros e exibe o maior e o menor valor&quot;">
+      <option name="closed" value="true" />
+      <created>1758842865204</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1758842865204</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pópin" />
     <MESSAGE value="&quot;Cria uma matriz identidade 5x5 e exibe o resultado no console&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Cria uma matriz identidade 5x5 e exibe o resultado no console&quot;" />
+    <MESSAGE value="&quot;Cria programa que gera 15 números aleatórios e exibe pares e ímpares separadamente&quot;" />
+    <MESSAGE value="&quot;Cria programa que lê 10 números inteiros e exibe o maior e o menor valor&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Cria programa que lê 10 números inteiros e exibe o maior e o menor valor&quot;" />
   </component>
 </project>
