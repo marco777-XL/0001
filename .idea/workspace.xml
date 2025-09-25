@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ce8bb9f-6d0b-4898-a35c-a1758c1fcc86" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VetoresCleiton.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matriz01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matriz02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matriz03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matrizes01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matrizes03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matrizes04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matrizes05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matrizzes02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vetor01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vetor02.java" afterDir="false" />
-    </list>
+    <list default="true" id="3ce8bb9f-6d0b-4898-a35c-a1758c1fcc86" name="Changes" comment="pópin" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +33,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
@@ -66,6 +47,19 @@
       <option name="presentableId" value="Default" />
       <updated>1758840510001</updated>
     </task>
+    <task id="LOCAL-00001" summary="pópin">
+      <option name="closed" value="true" />
+      <created>1758842261857</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758842261857</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pópin" />
+    <option name="LAST_COMMIT_MESSAGE" value="pópin" />
   </component>
 </project>
