@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ce8bb9f-6d0b-4898-a35c-a1758c1fcc86" name="Changes" comment="pópin" />
+    <list default="true" id="3ce8bb9f-6d0b-4898-a35c-a1758c1fcc86" name="Changes" comment="&quot;Cria uma matriz identidade 5x5 e exibe o resultado no console&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,11 +55,36 @@
       <option name="project" value="LOCAL" />
       <updated>1758842261857</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;Cria uma matriz identidade 5x5 e exibe o resultado no console&quot;">
+      <option name="closed" value="true" />
+      <created>1758842420955</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758842420955</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;Cria uma matriz identidade 5x5 e exibe o resultado no console&quot;">
+      <option name="closed" value="true" />
+      <created>1758842438742</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758842438742</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;Cria uma matriz identidade 5x5 e exibe o resultado no console&quot;">
+      <option name="closed" value="true" />
+      <created>1758842518411</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758842518411</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pópin" />
-    <option name="LAST_COMMIT_MESSAGE" value="pópin" />
+    <MESSAGE value="&quot;Cria uma matriz identidade 5x5 e exibe o resultado no console&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Cria uma matriz identidade 5x5 e exibe o resultado no console&quot;" />
   </component>
 </project>
