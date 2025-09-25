@@ -21,5 +21,5 @@ public class Vetor02 {
         for (int n : vetor) {
             if (n % 2 != 0) System.out.print(n + " ");
         }
-    }
+    }///
 }
