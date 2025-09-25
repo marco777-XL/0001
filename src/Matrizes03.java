@@ -52,6 +52,6 @@ public class Matrizes03 {
                 System.out.print(tabuleiro[i][j] + "|");
             }
             System.out.println();
-        }
+        }//
     }
 }
