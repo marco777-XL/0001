@@ -24,5 +24,5 @@ public class Vetor01 {
         System.out.println("Menor número digitado: " + menor);
 
         sc.close();
-    }///
+    }//
 }
