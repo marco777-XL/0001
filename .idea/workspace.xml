@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ce8bb9f-6d0b-4898-a35c-a1758c1fcc86" name="Changes" comment="&quot;Cria programa que lê 10 números inteiros e exibe o maior e o menor valor&quot;">
-      <change beforePath="$PROJECT_DIR$/src/Matriz01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Matriz01.java" afterDir="false" />
+    <list default="true" id="3ce8bb9f-6d0b-4898-a35c-a1758c1fcc86" name="Changes" comment=" &quot;Cria Jogo da Velha 3x3 com alternância de jogadores e verificação de posições válidas&quot;">
+      <change beforePath="$PROJECT_DIR$/src/Matrizes04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Matrizes04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +105,47 @@
       <option name="project" value="LOCAL" />
       <updated>1758842865204</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="&quot;Adiciona matriz 3x3 com entrada do usuário&quot;">
+      <option name="closed" value="true" />
+      <created>1758842942530</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1758842942530</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&quot;Cria programa que gera matriz 4x4 com números aleatórios e imprime diagonal principal&quot;">
+      <option name="closed" value="true" />
+      <created>1758843010634</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1758843010634</updated>
+    </task>
+    <task id="LOCAL-00010" summary=" &quot;Programa para ler matriz 3x3, mostrar valores e calcular soma das linhas e colunas&quot;">
+      <option name="closed" value="true" />
+      <created>1758843081208</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1758843081208</updated>
+    </task>
+    <task id="LOCAL-00011" summary=" &quot;Cria programa que lê matriz 3x2, calcula e exibe sua transposta 2x3&quot;">
+      <option name="closed" value="true" />
+      <created>1758843149703</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1758843149703</updated>
+    </task>
+    <task id="LOCAL-00012" summary=" &quot;Cria Jogo da Velha 3x3 com alternância de jogadores e verificação de posições válidas&quot;">
+      <option name="closed" value="true" />
+      <created>1758843205407</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1758843205407</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -113,6 +153,11 @@
     <MESSAGE value="&quot;Cria uma matriz identidade 5x5 e exibe o resultado no console&quot;" />
     <MESSAGE value="&quot;Cria programa que gera 15 números aleatórios e exibe pares e ímpares separadamente&quot;" />
     <MESSAGE value="&quot;Cria programa que lê 10 números inteiros e exibe o maior e o menor valor&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Cria programa que lê 10 números inteiros e exibe o maior e o menor valor&quot;" />
+    <MESSAGE value="&quot;Adiciona matriz 3x3 com entrada do usuário&quot;" />
+    <MESSAGE value="&quot;Cria programa que gera matriz 4x4 com números aleatórios e imprime diagonal principal&quot;" />
+    <MESSAGE value=" &quot;Programa para ler matriz 3x3, mostrar valores e calcular soma das linhas e colunas&quot;" />
+    <MESSAGE value=" &quot;Cria programa que lê matriz 3x2, calcula e exibe sua transposta 2x3&quot;" />
+    <MESSAGE value=" &quot;Cria Jogo da Velha 3x3 com alternância de jogadores e verificação de posições válidas&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value=" &quot;Cria Jogo da Velha 3x3 com alternância de jogadores e verificação de posições válidas&quot;" />
   </component>
 </project>
